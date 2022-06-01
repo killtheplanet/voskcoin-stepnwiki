@@ -1,6 +1,6 @@
 <h2 id='heading--intro'><a href="#heading--intro">Introduction</a></h2>
 
-This Wiki is all about STEPN, the purpose of this wiki is NOT to re-write or regurgitate the [Stepn Whitepaper](https://whitepaper.stepn.com/) which is excellent and required reading before heading here but to supplement it with additional information as provided by the #Step'N Discussion Discord on the VoskCoin Discord server.
+This Wiki is all about STEPN, the purpose of this wiki is NOT to re-write or regurgitate the [Stepn White paper](https://whitepaper.stepn.com/) which is excellent and required reading before heading here but to supplement it with additional information as provided by the #Step'N Discussion Discord on the VoskCoin Discord server.
 
 
 <h2 id='heading--contributing'><a href="#heading--contributing">Contributing</a></h2>
@@ -10,6 +10,11 @@ This resource was created because none existed at the time, I am most definitely
 Feel free to raise a [pull request](https://github.com/killtheplanet/voskcoin-stepnwiki) or click on edit on the appropriate file.
 
 Alternatively, tag @killtheplanet on the above-mentioned Discord on the VoskCoin Discord with your suggestions!
+
+<h2 id='heading--buying'><a href="#heading--buying">Buying Shoes</a></h2>
+
+* Give me some content to add!
+* A Twitter [STEPN Price bot](https://twitter.com/vicola_vi)
 
 
 <h2 id='heading--levellingup'><a href="#heading--levellingup">Levelling Up</a></h2>
@@ -50,6 +55,11 @@ Not-so-nice things found
 * Is it a pyramid scheme? 
 -- [Firehustle](https://youtu.be/MFlrvpXqrTM?t=97)
 -- [Biaheza](https://www.youtube.com/watch?v=PWabmFXPjA0)
+
+<h2 id='heading--otherprojects'><a href="#heading--otherprojects">Similair projects</a></h2>
+
+<img src="https://media.discordapp.net/attachments/399609995651448852/979008227125628948/unknown.png?width=1020&height=551">
+
 
 <h2 id='heading--memes'><a href="#heading--memes">I need memes</a></h2>
 
