@@ -56,7 +56,7 @@ Not-so-nice things found
 -- [Firehustle](https://youtu.be/MFlrvpXqrTM?t=97)
 -- [Biaheza](https://www.youtube.com/watch?v=PWabmFXPjA0)
 
-<h2 id='heading--otherprojects'><a href="#heading--otherprojects">Similair projects</a></h2>
+<h2 id='heading--otherprojects'><a href="#heading--otherprojects">Similar projects</a></h2>
 
 <img src="https://media.discordapp.net/attachments/399609995651448852/979008227125628948/unknown.png?width=1020&height=551">
 
