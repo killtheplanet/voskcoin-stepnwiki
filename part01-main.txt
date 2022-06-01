@@ -1,0 +1,56 @@
+<h2 id='heading--intro'><a href="#heading--intro">Introduction</a></h2>
+
+This Wiki is all about STEPN, the purpose of this wiki is NOT to re-write or regurgitate the [Stepn Whitepaper](https://whitepaper.stepn.com/) which is excellent and required reading before heading here but to supplement it with additional information as provided by the #Step'N Discussion Discord on the VoskCoin Discord server.
+
+
+<h2 id='heading--contributing'><a href="#heading--contributing">Contributing</a></h2>
+
+This resource was created because none existed at the time, therefore I am most definitely not the most knowledgeable on this topic (and in fact, a noob!), therefore I rely on the community to keep this up to date, so, feel something was missed out or that you can contribute? 
+
+Feel free to raise a [pull request](https://github.com/killtheplanet/voskcoin-stepnwiki) or click on edit on the appropriate file.
+
+Alternatively, tag @killtheplanet on the above-mentioned Discord channel on the VoskCoin Discord with your suggestions!
+
+
+<h2 id='heading--levellingup'><a href="#heading--levellingup">Levelling Up</a></h2>
+
+The [Stepn Guide](https://stepn.guide/) is a excellent resource that helps with ensuring your shoes have the maximum efficiency for a particular level.
+
+Note: It has been said that this is only helpful for lower levels not looking at Gem sockets yet
+
+A handy chart which shows the cumulative time and cost to get to a particular level:
+<img src="https://media.discordapp.net/attachments/962905921477034025/968154923197947925/IMG_0747.png?width=467&height=551">
+
+
+<h2 id='heading--minting'><a href="#heading--minting">Minting</a></h2>
+
+There is a good [Minting Calculator](https://stepn.vanxh.dev/) that you can use, keep in mind that mint prices change daily at 14:00 UTC.
+
+It works roughly like this:
+<img src="https://cdn.discordapp.com/attachments/962905921477034025/976597562167550013/unknown.png">
+
+The original official Discord announcement had this:
+<img src="https://media.discordapp.net/attachments/962905921477034025/973525980645822534/Screenshot_20220510-110354.jpg?width=248&height=551">
+
+
+<h2 id='heading--gems'><a href="#heading--gems">Gems</a></h2>
+
+NOTE: I'm too noob to have done this myself, so completely rely on others for info
+
+Here's what has been found about GEM probabilities and costs:
+<img src="https://cdn.discordapp.com/attachments/962905921477034025/980838476062810144/Capture.PNG">
+
+Another good resource found:
+<img src="https://media.discordapp.net/attachments/962905921477034025/980945366830690325/IMG_4868.jpg?width=367&height=551">
+
+
+
+
+
+
+
+
+
+
+
+
