@@ -5,7 +5,7 @@ This Wiki is all about STEPN, the purpose of this wiki is NOT to re-write or reg
 
 <h2 id='heading--contributing'><a href="#heading--contributing">Contributing</a></h2>
 
-This resource was created because none existed at the time, therefore I am most definitely not the most knowledgeable on this topic (and in fact, a noob!), therefore I rely on the community to keep this up to date, so, feel something was missed out or that you can contribute? 
+This resource was created because none existed at the time, I am most definitely a noob on this topic and therefore I rely on the community to keep this up to date, so, feel something was missed out or that you can contribute? 
 
 Feel free to raise a [pull request](https://github.com/killtheplanet/voskcoin-stepnwiki) or click on edit on the appropriate file.
 
