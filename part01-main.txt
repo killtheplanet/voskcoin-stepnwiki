@@ -31,8 +31,14 @@ A handy chart which shows the cumulative time and cost to get to a particular le
 
 There is a good [Minting Calculator](https://stepn.vanxh.dev/) that you can use, keep in mind that mint prices change daily at 14:00 UTC.
 
+Also note that mint costs also change depending on how many mints the shoes has had.
+
 It works roughly like this:
 <img src="https://cdn.discordapp.com/attachments/962905921477034025/976597562167550013/unknown.png">
+
+Mined sneaker socket type %:
+<img src="https://media.discordapp.net/attachments/962905921477034025/981842224209858590/IMG_4577.jpg?width=367&height=551">
+
 
 The original official Discord announcement had this:
 <img src="https://media.discordapp.net/attachments/962905921477034025/973525980645822534/Screenshot_20220510-110354.jpg?width=248&height=551">
@@ -65,6 +71,30 @@ Not-so-nice things found
 
 <img src="https://media.discordapp.net/attachments/962905921477034025/981559545535004712/I_Saw_14000605_Futures_01062022202132.jpg?width=338&height=550">
 
+
+<h2 id='heading--FAQ'><a href="#heading--FAQ">FAQ</a></h2>
+
+Frequently asked questions
+
+<h3 id='heading--FAQ-GMT'><a href="#heading--FAQ-GMT">How do I get GMT?</a></h3>
+
+Other than buying off the market, you can trade GST you earned in your wallet (once transferred from spending) and click the 'trade' button.
+
+NOTE: If a trade is not confirmed within 30 seconds you will get a 'timeout' message - your trade may or may not have occurred then, best is to refresh the view (pull from the top down) and see if the trade happened, retry if it did not happen.
+
+
+<h3 id='heading--FAQ-tradepoints'><a href="#heading--FAQ-tradepoints">Can I trade points across shoes?</a></h3>
+
+No
+
+<h3 id='heading--FAQ-socketdiff'><a href="#heading--FAQ-socketdiff">Why are my sockets different between shoes?</a></h3>
+
+All shoes can have the same or different. Baby shoe has a 45% chance for moms socket 45% chance for dads socket and a 5% chance for both other types
+
+<h3 id='heading--FAQ-cooldown'><a href="#heading--FAQ-cooldown">Where do cooldowns apply?</a></h3>
+
+* Mints has a 48 hour cooldown to mint again
+* 24 hour earning coundown on shoe transfer (to avoid abuse)
 
 
 
