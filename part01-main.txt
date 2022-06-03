@@ -113,10 +113,13 @@ All shoes can have the same or different. Baby shoe has a 45% chance for moms so
 This typically refers to this section of the [agreement](https://agreement.stepn.com/):
 
 > By using the App or the Services you represent and warrant that:
-> you are not a current resident of the United States of America, China (Mainland), Cuba, Crimea and Sevastopol, Iran, >
-> Afghanistan, Syria, North Korea, Antigua and Barbuda, Hong Kong, Thailand, Malaysia, India or Canada (Ontario); and
-> your access to and use of the App and Services is lawful in your country of residence in the manner in which you access > 
-> and use them.
+> you are not a current resident of the United States of America, 
+> China (Mainland), Cuba, Crimea and Sevastopol, Iran, 
+> Afghanistan, Syria, North Korea, Antigua and Barbuda, Hong Kong,
+> Thailand, Malaysia, India or Canada (Ontario); and your access
+> to and use of the App and Services is lawful in your country 
+> of residence in the manner in which you access and use them.
+
 
 That statement in the TOS doesn’t mean Step’N is banned in those countries. That is the list of countries that are pretty unfriendly towards crypto in general. The 2nd phrase is the important part “and is lawful in your country”
 
