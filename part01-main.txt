@@ -39,6 +39,9 @@ It works roughly like this:
 Mined sneaker socket type %:
 <img src="https://media.discordapp.net/attachments/962905921477034025/981842224209858590/IMG_4577.jpg?width=367&height=551">
 
+How Common and Uncommon boxes influence mint:
+<img src="https://media.discordapp.net/attachments/903623796399964180/982427276740276274/E7B83CB8-422B-430C-BB00-18A12DF67674.jpg">
+
 
 The original official Discord announcement had this:
 <img src="https://media.discordapp.net/attachments/962905921477034025/973525980645822534/Screenshot_20220510-110354.jpg?width=248&height=551">
