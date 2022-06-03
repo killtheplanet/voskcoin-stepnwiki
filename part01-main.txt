@@ -65,16 +65,27 @@ Not-so-nice things found
 <h2 id='heading--otherprojects'><a href="#heading--otherprojects">Similar projects</a></h2>
 
 <img src="https://media.discordapp.net/attachments/399609995651448852/979008227125628948/unknown.png?width=1020&height=551">
+* Calo
+* Step App
+* Step
+* Wirtual
+* Genopets
+* Sweatcoin
 
 
 <h2 id='heading--memes'><a href="#heading--memes">I need memes</a></h2>
 
 <img src="https://media.discordapp.net/attachments/962905921477034025/981559545535004712/I_Saw_14000605_Futures_01062022202132.jpg?width=338&height=550">
+<img src="https://media.discordapp.net/attachments/890243599118270474/982353124222197820/IMG_7900.jpg?width=567&height=551">
 
 
 <h2 id='heading--FAQ'><a href="#heading--FAQ">FAQ</a></h2>
 
 Frequently asked questions
+
+<h3 id='heading--FAQ-invite'><a href="#heading--FAQ-invite">I want a invite?</a></h3>
+
+Come hang out with us in the Discord channel as mentioned <a href="#heading--intro">here</a>.
 
 <h3 id='heading--FAQ-GMT'><a href="#heading--FAQ-GMT">How do I get GMT?</a></h3>
 
@@ -93,8 +104,24 @@ All shoes can have the same or different. Baby shoe has a 45% chance for moms so
 
 <h3 id='heading--FAQ-cooldown'><a href="#heading--FAQ-cooldown">Where do cooldowns apply?</a></h3>
 
-* Mints has a 48 hour cooldown to mint again
-* 24 hour earning coundown on shoe transfer (to avoid abuse)
+* Mints has a 48 hour cool-down to mint again
+* 24 hour earning countdown on shoe transfer (to avoid abuse)
+
+
+<h3 id='heading--FAQ-illegalUSA'><a href="#heading--FAQ-illegalUSA">Is it illegal in the USA?</a></h3>
+
+This typically refers to this section of the [agreement](https://agreement.stepn.com/):
+
+> By using the App or the Services you represent and warrant that:
+> you are not a current resident of the United States of America, China (Mainland), Cuba, Crimea and Sevastopol, Iran, >
+> Afghanistan, Syria, North Korea, Antigua and Barbuda, Hong Kong, Thailand, Malaysia, India or Canada (Ontario); and
+> your access to and use of the App and Services is lawful in your country of residence in the manner in which you access > 
+> and use them.
+
+That statement in the TOS doesn’t mean Step’N is banned in those countries. That is the list of countries that are pretty unfriendly towards crypto in general. The 2nd phrase is the important part “and is lawful in your country”
+
+Also from their discord:
+<img src="https://media.discordapp.net/attachments/962905921477034025/982302695153090620/unknown.png">
 
 
 
