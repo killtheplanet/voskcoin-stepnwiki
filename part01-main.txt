@@ -92,6 +92,10 @@ Frequently asked questions
 
 Come hang out with us in the Discord channel as mentioned <a href="#heading--intro">here</a>.
 
+<h3 id='heading--FAQ-stats'><a href="#heading--FAQ-stats">Where can I find stats?</a></h3>
+
+* [Dune](https://dune.com/lightsoutjames/STEPN-Dashboard)
+
 <h3 id='heading--FAQ-GMT'><a href="#heading--FAQ-GMT">How do I get GMT?</a></h3>
 
 Other than buying off the market, you can trade GST you earned in your wallet (once transferred from spending) and click the 'trade' button.
