@@ -91,6 +91,7 @@ Not-so-nice things found
 <img src="https://media.discordapp.net/attachments/890243599118270474/982353124222197820/IMG_7900.jpg?width=567&height=551">
 <img src="https://cdn.discordapp.com/attachments/962905921477034025/983001586064314368/IMG_20220605_223423_823.jpg">
 <img src="https://cdn.discordapp.com/attachments/962905921477034025/983869031872335892/IMG_4969.png">
+<img src="https://media.discordapp.net/attachments/962905921477034025/984194135886004294/6.png">
 
 
 <h2 id='heading--FAQ'><a href="#heading--FAQ">FAQ</a></h2>
