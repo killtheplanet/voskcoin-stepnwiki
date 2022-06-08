@@ -31,6 +31,11 @@ A handy chart which shows the cumulative time and cost to get to a particular le
 
 There is a good [Minting Calculator](https://stepn.vanxh.dev/) that you can use, keep in mind that mint prices change daily at 14:00 UTC.
 
+The 8 June 2022 [announcement](https://stepnofficial.medium.com/stepns-action-plan-for-game-economy-db67fcba405) covers some minting changes:
+<img src="https://cdn.discordapp.com/attachments/962905921477034025/984011361002590228/unknown.png">
+
+<b>Below are pre-8 June 2022 changes purely for temporary reference:</b>
+
 Also note that mint costs also change depending on how many mints the shoes has had.
 
 It works roughly like this:
