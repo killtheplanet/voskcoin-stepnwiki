@@ -149,6 +149,9 @@ Also from their discord:
 
 Level 0, mint 0
 
+<h3 id='heading--FAQ-batterysaving'><a href="#heading--FAQ-batterysaving">Does battery saving affect earnings?</a></h3>
+
+Running with battery saver on and your phone off (or in a different app) will not give you earnings
 
 
 
