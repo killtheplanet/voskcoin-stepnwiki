@@ -156,6 +156,11 @@ Level 0, mint 0
 
 Running with battery saver on and your phone off (or in a different app) will not give you earnings
 
+<h3 id='heading--FAQ-energysharing'><a href="#heading--FAQ-energysharing">How does energy sharing work across realms?</a></h3>
+
+Energy sharing was announced on the 8th June 2022 update and is covered quite well in the Whitepaper.
+
+* A good [explainer](https://docs.google.com/presentation/d/1krqwgDNeXhwyWYXsPIK3KU9eZEFHYqlu73Hg03ZBcD8/edit#slide=id.g1338a92241d_0_103)
 
 
 
