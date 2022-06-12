@@ -108,6 +108,7 @@ Come hang out with us in the Discord channel as mentioned <a href="#heading--int
 <h3 id='heading--FAQ-stats'><a href="#heading--FAQ-stats">Where can I find stats?</a></h3>
 
 * [Dune](https://dune.com/lightsoutjames/STEPN-Dashboard)
+* [STEPNstats](http://www.tinyurl.com/STEPNstats)
 
 <h3 id='heading--FAQ-GMT'><a href="#heading--FAQ-GMT">How do I get GMT?</a></h3>
 
