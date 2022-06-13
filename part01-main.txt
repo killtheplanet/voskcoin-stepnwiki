@@ -81,6 +81,7 @@ Not-so-nice things found
 
 <img src="https://media.discordapp.net/attachments/399609995651448852/979008227125628948/unknown.png?width=1020&height=551">
 * [Walken](https://walken.io/)
+ - Basically you are assigned your character with random stats. Then it passively calculates steps during the day and turns them into gems. Gems are used to upgrade your character. You also can “battle” another person and you want to select your highest attribute to participate in those as they are weighted the most. For winning those you earn their token. WLKN. WLKN can be used to buy clothes and such which upgrade attribute points but you also need them to level up as well. Like to go from lvl 0 to lvl 1 you need 1 WLKN (ty @BrokeAvgJoe)
 * Calo
 * Step App
 * Step
