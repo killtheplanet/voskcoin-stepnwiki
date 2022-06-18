@@ -74,6 +74,9 @@ Evolving as this is new (June 2022),
 
 NOTE: I'm too noob to have done this myself, so completely rely on others for info
 
+~18 June Average Lvl1-3 gem content:
+<img src="https://media.discordapp.net/attachments/962905921477034025/987745850585391205/IMG_1292.jpg?width=899&height=551">
+
 Here's what has been found about GEM probabilities and costs:
 <img src="https://cdn.discordapp.com/attachments/962905921477034025/980838476062810144/Capture.PNG">
 
