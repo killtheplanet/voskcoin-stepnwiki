@@ -95,7 +95,7 @@ Not-so-nice things found
 <h2 id='heading--otherprojects'><a href="#heading--otherprojects">Similar projects</a></h2>
 
 <img src="https://media.discordapp.net/attachments/399609995651448852/979008227125628948/unknown.png?width=1020&height=551">
-* [Walken](https://walken.io/)
+* [Walken](https://walken.io/), [Light Paper](https://walken.io/static/walken_lite_paper.pdf)
 > Basically you are assigned your character with random stats. Then it passively calculates
 > steps during the day and turns them into gems. Gems are used to upgrade your character. 
 > You also can “battle” another person and you want to select your highest attribute to 
@@ -106,6 +106,8 @@ Not-so-nice things found
 > One note to everyone, if you want: don't level your dude until you have 20 gems and 4 WLKN.
 > If you level to lvl 1 you start facing absolute tryhards and it's really annoying. 
 > But if you wanna face rad chads, go for it
+<img src="https://cdn.discordapp.com/attachments/962905921477034025/987902232676675604/IMG_5156.png>
+
 
 * Calo
 * Step App
