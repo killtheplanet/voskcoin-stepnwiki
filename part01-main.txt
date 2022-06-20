@@ -20,6 +20,7 @@ Alternatively, tag @killtheplanet on the above-mentioned Discord on the VoskCoin
 <h2 id='heading--levellingup'><a href="#heading--levellingup">Levelling Up</a></h2>
 
 The [Stepn Guide](https://stepn.guide/) is a excellent resource that helps with ensuring your shoes have the maximum efficiency for a particular level.
+The [Stepn.Wiki](https://stepn.wiki/) site also recently popped up which does a similar job
 
 Note: It has been said that this is only helpful for lower levels not looking at Gem sockets yet
 
