@@ -71,6 +71,11 @@ The original official Discord announcement had this:
 Evolving as this is new (June 2022),
 * STEPNstats released [this](https://twitter.com/Krit_STEPN/status/1537153809960554500/photo/1) to show the chances of dropping a Minting scroll
 
+<h2 id='heading--enhancements'><a href="#heading--enhancements">Sneaker Enhancement</a></h2>
+
+Seaker Synthesis/Enhancements was released around 20 June 2022
+
+* Barndog [talks through it](https://www.youtube.com/watch?v=DxLBSjJBdbo) here
 
 <h2 id='heading--gems'><a href="#heading--gems">Gems</a></h2>
 
