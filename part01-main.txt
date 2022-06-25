@@ -75,11 +75,19 @@ The original official Discord announcement had this:
 
 <h2 id='heading--mysteryboxes'><a href="#heading--mysteryboxes">Mystery Boxes</a></h2>
 
+Opening costs:
 <img src="https://cdn.discordapp.com/attachments/962905921477034025/986419679138562138/image0.jpg">
 <img src="https://media.discordapp.net/attachments/962905921477034025/986829212642078791/updated.jpg?width=594&height=551">
+
+Waiting time:
 <img src="https://media.discordapp.net/attachments/962905921477034025/988773191390462012/7FD30E8F-46A1-460A-B546-62A8CA614891.jpg?width=728&height=599">
+
+Not 100% accurate but rough idea of what you can expect based on your luck and energy spent:
+<img src="https://cdn.discordapp.com/attachments/989878618236784650/990381186733973504/IMG_20220625_232938_109.jpg">
+
 * Barndog discusses Mystery Boxes on this 15 June 2022 [video](https://www.youtube.com/watch?v=229KNJC1VlM)
 * STEPNstats shows the rough distribution seen on 15 June 2022 [here](https://twitter.com/Krit_STEPN/status/1537139557438734338/photo/1)
+
 
 <h2 id='heading--mintingscroll'><a href="#heading--mintingscroll">Minting Scrolls</a></h2>
 
