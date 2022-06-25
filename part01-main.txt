@@ -154,7 +154,6 @@ Not-so-nice things found
 <img src="https://cdn.discordapp.com/attachments/962905921477034025/983869031872335892/IMG_4969.png">
 <img src="https://media.discordapp.net/attachments/962905921477034025/984194135886004294/6.png">
 <img src="https://cdn.discordapp.com/attachments/989878618236784650/990045810521681980/20220625_010817.jpg">
-<img src="https://cdn.discordapp.com/attachments/989878618236784650/990193726196424704/IMG_5254.jpg">
 
 <h2 id='heading--FAQ'><a href="#heading--FAQ">FAQ</a></h2>
 
