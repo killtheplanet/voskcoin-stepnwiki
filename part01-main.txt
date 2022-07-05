@@ -135,6 +135,7 @@ Not-so-nice things found
 Sleep to earn,
 * [Sleefi](https://sleefi.com/)
 * [Sleepagotchi](https://sleepagotchi.com/en)
+* [SleepFuture](https://sleepfuture.com/)
 
 <h3 id='heading--walken'><a href="#heading--walken">Walken</a></h3>
 
