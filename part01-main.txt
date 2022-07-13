@@ -38,6 +38,10 @@ Note: It has been said that this is only helpful for lower levels not looking at
 A handy chart which shows the cumulative time and cost to get to a particular level:
 <img src="https://media.discordapp.net/attachments/962905921477034025/968154923197947925/IMG_0747.png?width=467&height=551">
 
+<h2 id='heading--healthpoints'><a href="#heading--healthpoints">Health Points</a></h2>
+
+Health Points was announced on July 13 2022 as another way to improve price action. See the [tweet](https://twitter.com/Stepnofficial/status/1547063185437368320)
+
 
 <h2 id='heading--minting'><a href="#heading--minting">Minting</a></h2>
 
@@ -165,6 +169,9 @@ Sleep to earn,
 <img src="https://media.discordapp.net/attachments/962905921477034025/984194135886004294/6.png">
 <img src="https://cdn.discordapp.com/attachments/989878618236784650/990045810521681980/20220625_010817.jpg">
 <img src="https://media.discordapp.net/attachments/989878618236784650/990663485098717204/IMG_7553.jpg?width=534&height=534">
+<img src="https://media.discordapp.net/attachments/989878618236784650/996875988761845910/unknown.png">
+<img src="https://media.discordapp.net/attachments/989878618236784650/996876660739690516/unknown.png">
+<img src="https://media.discordapp.net/attachments/989878618236784650/996877965759615067/unknown.png">
 
 
 <h2 id='heading--FAQ'><a href="#heading--FAQ">FAQ</a></h2>
