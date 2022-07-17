@@ -172,7 +172,9 @@ Sleep to earn,
 <img src="https://media.discordapp.net/attachments/989878618236784650/996875988761845910/unknown.png">
 <img src="https://media.discordapp.net/attachments/989878618236784650/996876660739690516/unknown.png">
 <img src="https://media.discordapp.net/attachments/989878618236784650/996877965759615067/unknown.png">
-
+<img src="https://cdn.discordapp.com/attachments/989878618236784650/998348295653036042/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/989878618236784650/998348295917289592/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/989878618236784650/998348296215089242/unknown.png">
 
 <h2 id='heading--FAQ'><a href="#heading--FAQ">FAQ</a></h2>
 
