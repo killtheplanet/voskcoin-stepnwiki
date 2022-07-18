@@ -20,7 +20,7 @@ Alternatively, tag @killtheplanet on the above-mentioned Discord on the VoskCoin
 
 <h2 id='heading--buying'><a href="#heading--buying">Buying Shoes</a></h2>
 
-* Give me some content to add!
+* [Floor Prices](https://stepnfp.com/) updated every 30mins
 * A Twitter [STEPN Price bot](https://twitter.com/vicola_vi)
 
 <h2 id='heading--repair'><a href="#heading--repair">Repair costs</a></h2>
