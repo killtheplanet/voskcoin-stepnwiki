@@ -42,6 +42,10 @@ A handy chart which shows the cumulative time and cost to get to a particular le
 
 Health Points was announced on July 13 2022 as another way to improve price action. See the [tweet](https://twitter.com/Stepnofficial/status/1547063185437368320)
 
+Updated finetuning on 19 July 2022:
+<img src="https://cdn.discordapp.com/attachments/989878618236784650/998914443557752872/Screenshot_20220719-122854.png">
+<img src="https://cdn.discordapp.com/attachments/989878618236784650/998914443956203538/Screenshot_20220719-122911.png">
+
 
 <h2 id='heading--minting'><a href="#heading--minting">Minting</a></h2>
 
